@@ -41,8 +41,8 @@ Each spec file focuses on a specific flow:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yosuancrespo/aetherium.git
-   cd aetherium
+   git clone https://github.com/yosuancrespo/cypress-aetherium-e2e.git
+   cd cypress-aetherium-e2e
 
 2. **Install Cypress (if needed)**
 
@@ -65,7 +65,7 @@ If you prefer a local `package.json`, you can set it up like this:
 
 **Folder structure**
 ```text
-aetherium/
+cypress-aetherium-e2e/
   loginpage.cy.js
   registerpage.cy.js
   registeruser.cy.js
